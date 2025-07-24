@@ -1,3 +1,4 @@
+/*Product Card Manager*/
 import React, { useEffect, useState } from "react";
 import { Package, PackagePlusIcon, X, Check, Image, Edit2 } from "lucide-react";
 
