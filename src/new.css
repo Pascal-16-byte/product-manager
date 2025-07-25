@@ -124,14 +124,14 @@
 
 .btn-reset, .btn-submit {
     font-size: 15px;
-    background: linear-gradient(70deg,blue,violet);
+    background: linear-gradient(70deg,rgb(2, 165, 157),rgb(215, 238, 130));
     padding: 12px 25px;
     margin: 10px;
     cursor: pointer;
     border-radius: 20px;
     border: none;
     outline: none;
-    color: white;
+    color: rgb(0, 0, 0);
     transform: translateY(0px);
     box-shadow: 0 0 10px #1e90ff;
     transition: all 0.6s ease-in-out;
@@ -147,6 +147,7 @@
 
 .btn-reset {
     background: linear-gradient(70deg, #666, #999);
+    color: white;
 }
 
 /* product card */
